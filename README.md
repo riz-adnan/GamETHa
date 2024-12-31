@@ -8,6 +8,9 @@ Welcome to **GamETHa** – the ultimate Web 3.0 powered gaming platform! Earn wh
 
 Do you want to earn while you play and you are not ready to trust a traditional centralized platform where some admin moderates your game and earnings. Worry not! Introducing GamETHa. GamETHa is a decentralized gaming platform where developers can upload both single-player and multiplayer games. Users can buy, play, and stream games, all while leveraging the power of blockchain and decentralized technologies. 
 
+## 🚀 Live Link
+[Demo](https://chimerical-pastelito-a94a3f.netlify.app/)
+
 ## 🚀 Features
 
 ### For Developers
